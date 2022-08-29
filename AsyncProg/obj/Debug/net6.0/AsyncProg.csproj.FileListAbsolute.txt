@@ -1,0 +1,15 @@
+/Users/narmin/Projects/AsyncProg/AsyncProg/obj/Debug/net6.0/AsyncProg.csproj.AssemblyReference.cache
+/Users/narmin/Projects/AsyncProg/AsyncProg/obj/Debug/net6.0/AsyncProg.GeneratedMSBuildEditorConfig.editorconfig
+/Users/narmin/Projects/AsyncProg/AsyncProg/obj/Debug/net6.0/AsyncProg.AssemblyInfoInputs.cache
+/Users/narmin/Projects/AsyncProg/AsyncProg/obj/Debug/net6.0/AsyncProg.AssemblyInfo.cs
+/Users/narmin/Projects/AsyncProg/AsyncProg/obj/Debug/net6.0/AsyncProg.csproj.CoreCompileInputs.cache
+/Users/narmin/Projects/AsyncProg/AsyncProg/bin/Debug/net6.0/AsyncProg
+/Users/narmin/Projects/AsyncProg/AsyncProg/bin/Debug/net6.0/AsyncProg.deps.json
+/Users/narmin/Projects/AsyncProg/AsyncProg/bin/Debug/net6.0/AsyncProg.runtimeconfig.json
+/Users/narmin/Projects/AsyncProg/AsyncProg/bin/Debug/net6.0/AsyncProg.dll
+/Users/narmin/Projects/AsyncProg/AsyncProg/bin/Debug/net6.0/AsyncProg.pdb
+/Users/narmin/Projects/AsyncProg/AsyncProg/obj/Debug/net6.0/AsyncProg.dll
+/Users/narmin/Projects/AsyncProg/AsyncProg/obj/Debug/net6.0/refint/AsyncProg.dll
+/Users/narmin/Projects/AsyncProg/AsyncProg/obj/Debug/net6.0/AsyncProg.pdb
+/Users/narmin/Projects/AsyncProg/AsyncProg/obj/Debug/net6.0/AsyncProg.genruntimeconfig.cache
+/Users/narmin/Projects/AsyncProg/AsyncProg/obj/Debug/net6.0/ref/AsyncProg.dll
